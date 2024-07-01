@@ -1,0 +1,19 @@
+{
+  "name": "inventory-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.19.2",
+    "luxon": "^3.4.4",
+    "mysql2": "^3.9.3",
+    "puppeteer": "^22.6.5",
+    "qrcode": "^1.5.3"
+  }
+}
